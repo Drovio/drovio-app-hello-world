@@ -1,0 +1,146 @@
+<DATA>
+
+	<ROW>
+		<id>app11b71732aecdb75bf29570f5c43956db</id>
+		<project_id>35</project_id>
+		<path>/</path>
+		<name>views.xml</name>
+		<smart>0</smart>
+		<deleted>0</deleted>
+	</ROW>
+
+	<ROW>
+		<id>app2a14be67ea7785aab5f37406e15a6c2b</id>
+		<project_id>35</project_id>
+		<path>/src/APP/Main/</path>
+		<name>testObject.object</name>
+		<smart>1</smart>
+		<deleted>1</deleted>
+	</ROW>
+
+	<ROW>
+		<id>app4672dadb5ca3fe04621a0071ded266ff</id>
+		<project_id>35</project_id>
+		<path>/</path>
+		<name>index.xml</name>
+		<smart>0</smart>
+		<deleted>0</deleted>
+	</ROW>
+
+	<ROW>
+		<id>app481f2fe3f6f77e5f1f4f095a303c802e</id>
+		<project_id>35</project_id>
+		<path>/</path>
+		<name>source.xml</name>
+		<smart>0</smart>
+		<deleted>0</deleted>
+	</ROW>
+
+	<ROW>
+		<id>app550e7bf562e52ed2ce53614366b4fd6f</id>
+		<project_id>35</project_id>
+		<path>/</path>
+		<name>settings.xml</name>
+		<smart>0</smart>
+		<deleted>0</deleted>
+	</ROW>
+
+	<ROW>
+		<id>app58b223e866154d6c00effd388551fc9d</id>
+		<project_id>35</project_id>
+		<path>/views/</path>
+		<name>SecondView.view</name>
+		<smart>1</smart>
+		<deleted>0</deleted>
+	</ROW>
+
+	<ROW>
+		<id>app596cec8aced9473ab7518dbafaac0216</id>
+		<project_id>35</project_id>
+		<path>/views/test</path>
+		<name>TestView.view</name>
+		<smart>1</smart>
+		<deleted>0</deleted>
+	</ROW>
+
+	<ROW>
+		<id>app605409dc07e362f3211e128fce86ba29</id>
+		<project_id>35</project_id>
+		<path>/views/test/test2</path>
+		<name>tview3.view</name>
+		<smart>1</smart>
+		<deleted>1</deleted>
+	</ROW>
+
+	<ROW>
+		<id>app8dd96ce7550a5c510876d21fba30e94e</id>
+		<project_id>35</project_id>
+		<path>/views/</path>
+		<name>MainView.view</name>
+		<smart>1</smart>
+		<deleted>0</deleted>
+	</ROW>
+
+	<ROW>
+		<id>app8fec7f2206e1b746b524b1884805484b</id>
+		<project_id>35</project_id>
+		<path>/styles</path>
+		<name>test.css</name>
+		<smart>0</smart>
+		<deleted>1</deleted>
+	</ROW>
+
+	<ROW>
+		<id>cl2123b23cd4ef074cf9c58d83b5b07726</id>
+		<project_id>35</project_id>
+		<path>/src/APP/Main/Ns1/</path>
+		<name>obj2.object</name>
+		<smart>1</smart>
+		<deleted>0</deleted>
+	</ROW>
+
+	<ROW>
+		<id>cl4022c849f854f75d6959edd68d61e65c</id>
+		<project_id>35</project_id>
+		<path>/src/APP/Main/</path>
+		<name>obj1.object</name>
+		<smart>1</smart>
+		<deleted>0</deleted>
+	</ROW>
+
+	<ROW>
+		<id>cl51b2ceee0525d7e59e09bd40c6f615ec</id>
+		<project_id>35</project_id>
+		<path>/src/APP/Main/Ns1/Ns11/</path>
+		<name>obj3.object</name>
+		<smart>1</smart>
+		<deleted>1</deleted>
+	</ROW>
+
+	<ROW>
+		<id>cssa02c83a7dbd96295beaefb72c2bee2de</id>
+		<project_id>35</project_id>
+		<path>/styles</path>
+		<name>Main.css</name>
+		<smart>0</smart>
+		<deleted>1</deleted>
+	</ROW>
+
+	<ROW>
+		<id>js08cdf3f297a5eb90ccce2d9937f6c37e</id>
+		<project_id>35</project_id>
+		<path>/scripts</path>
+		<name>Main2.js</name>
+		<smart>0</smart>
+		<deleted>1</deleted>
+	</ROW>
+
+	<ROW>
+		<id>js098f6bcd4621d373cade4e832627b4f6</id>
+		<project_id>35</project_id>
+		<path>/scripts</path>
+		<name>test.js</name>
+		<smart>0</smart>
+		<deleted>0</deleted>
+	</ROW>
+</DATA>

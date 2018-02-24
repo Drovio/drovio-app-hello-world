@@ -1,0 +1,15 @@
+<DATA>
+
+	<ROW>
+		<id>35</id>
+		<name>HelloWorld</name>
+		<title>Hello World</title>
+		<description>This is a hello world application for the Redback Platform.
+It demonstrates how a simple application is being built with Redback SDK.</description>
+		<projectType>4</projectType>
+		<team_id>7</team_id>
+		<online>1</online>
+		<open>1</open>
+		<public>0</public>
+	</ROW>
+</DATA>
