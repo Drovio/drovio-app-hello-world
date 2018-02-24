@@ -1,0 +1,67 @@
+.HelloWorldApplication,
+.HelloWorldApplication .HelloWorld {
+	overflow: auto;
+}
+.HelloWorldApplication .hd {
+	color: #555;
+	font-weight: normal;
+	text-align: center;
+}
+.HelloWorldApplication .actions {
+	width: 500px;
+	margin: 0 auto;
+	overflow: auto;
+	margin-top: 50px;
+}
+.HelloWorldApplication .actions .acholder {
+	width: 50%;
+	float: left;
+	text-align: center;
+}
+.HelloWorldApplication .actions .acholder .action {
+	display: inline-block;
+	text-align: center;
+	padding: 10px 15px;
+	color: #555;
+	border: 1px solid #555;
+	cursor: pointer;
+	border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	font-size: 12px;
+}
+.HelloWorldApplication .actions .acholder .action:hover {
+	color: #FFF;
+	background: #555;
+}
+.HelloWorldApplication .app_logContainer {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0px;
+	margin-top: 50px;
+	overflow: auto;
+}
+.HelloWorldApplication .app_logContainer .body {
+	max-height: 300px;
+	overflow: auto;
+}
+.HelloWorldApplication .app_logContainer .header {
+	overflow: auto;
+}
+.HelloWorldApplication .app_logContainer .app_log_clear {
+	float: right;
+	color: #777;
+	cursor: pointer;
+}
+.HelloWorldApplication .app_logContainer .app_log_clear:hover {
+	color: #555;
+}
+.HelloWorldApplication .app_logContainer .logItem {
+	color: #555;
+	font-size: 12px;
+	padding: 5px 10px;
+	border-bottom: 1px solid #CCC;
+}
+.HelloWorldApplication .app_logContainer .logItem:last-child {
+	border-bottom: none;
+}

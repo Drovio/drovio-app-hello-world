@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map><library name="APP"><package name="Main"><namespace name="Ns1"><namespace name="Ns11"/></namespace></package><package name="Main2"><namespace name="Ns2"/><namespace name="Ns3"/></package></library></map>
